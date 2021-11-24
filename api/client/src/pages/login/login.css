@@ -29,6 +29,10 @@
     border: none;
 }
 
+.loginInput:focus {
+    outline: none;
+}
+
 .loginButton {
     margin-top: 20px;
     cursor: pointer;

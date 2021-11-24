@@ -29,6 +29,10 @@
     border: none;
 }
 
+.registerInput:focus {
+    outline: none;
+}
+
 .registerButton {
     margin-top: 20px;
     cursor: pointer;
